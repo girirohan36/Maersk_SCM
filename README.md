@@ -53,7 +53,7 @@ Utilized ABC XYZ segmentation to categorize inventory based on revenue contribut
 - Suggested strategic adjustments to improve supply chain responsiveness and efficiency.
 
 
-# PowerBI Dasboard : 
+# PowerBI Dashboard : 
 ![image](https://github.com/user-attachments/assets/dd96cfb7-d553-4f77-9518-cb88c89685a4)
 ![image](https://github.com/user-attachments/assets/484d932f-45fb-49f0-999e-8ed3e75273d3)
 ![image](https://github.com/user-attachments/assets/9ecaf238-8327-4f1b-8ec7-4aed26fa4f15)
