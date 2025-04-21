@@ -3,11 +3,18 @@
 ## Overview
 This project analyzes Maersk's supply chain to identify inefficiencies and optimize operations. Using Python for data manipulation and Power BI for dashboards, the study focuses on inventory management, shipping operations, and customer demand. Key outputs include enhanced inventory segmentation, detailed analysis of shipment delays, and strategic recommendations for a more efficient and responsive supply chain.
 
+
 ## Project Description
 The project aims to:
 - Analyze key challenges in shipment and inventory management.
 - Utilize analytical approaches to propose actionable insights.
 - Enhance decision-making processes within the supply chain through robust data visualization tools.
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38f434e8-186b-49e6-a1bd-b410bfa5eab4" alt="maersk_optimization_small" />
+</p>
+
 
 ## Methodology
 ### Analysis
